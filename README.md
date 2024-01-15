@@ -57,6 +57,9 @@ For JWT
 JWT Authentication Work Flow
 image
 
+![image](https://github.com/amanrashm/JWT/assets/104130538/8cc2f837-ed2c-4de3-8ebc-82c884948178)
+
+
 Warning
 
 Before going forward with the implementation of JWT Authentication load all the jwt dependency
